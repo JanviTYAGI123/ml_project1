@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env/
+.venv/
+venv/
+.DS_Store
+.streamlit/secrets.toml
+# Large files
+*.pickle
+*.pkl
+*.h5
+*.onnx
+*.pt
+*.bin
+
